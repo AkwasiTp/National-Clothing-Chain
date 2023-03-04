@@ -1,5 +1,5 @@
 # Market Analysis Report For A National Clothing Chain
-A Udacity Power BI project on an online clothing store
+A Udacity Power BI project on an online clothing store. Interact with the report _[here](https://app.powerbi.com/view?r=eyJrIjoiMzliOWEwMjYtNmFiMS00NTYzLWE4ZmUtMTAyMmQxZjFiOWRlIiwidCI6ImE5NjMwYTViLTA5M2EtNDM5Yy04NjM5LThhYmJmMzRhN2M5NyJ9)_
 
 ![](clothing.jpg)
 
