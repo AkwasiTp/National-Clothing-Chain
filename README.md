@@ -90,30 +90,30 @@ The report which can be accessed [here](https://app.powerbi.com/view?r=eyJrIjoiM
 The summary page provide an overview of the solutions to the business problems listed above. It contains visuals from the other four pages with each visual addressing a particular business problem.
 
 ### Average Income vs Average Sales
-There is a strong positive correlation between Average Income and Sales with a correlation coefficient of **0.78**
+- There is a strong positive correlation between Average Income and Sales with a correlation coefficient of **0.78**
+- The regression formula: x = -722.14 – y / -m
 
 ![](Income_Analysis.png)
 
 ### Customer Analysis
-•	Jon Little is predicted to be the highest income earner 💰 . This was achieved using the regression formula: x = -722.14 – y / -m
-•	There has been a 91.35% reduction in sales this quarter (Jan – March 2021) as compared to the last quarter (Oct – Dec 2020)
-•	About 89% of customers are within the age range of 20 – 50 years.
-•	About 71% of customers are medium income earners
+-	Jon Little is predicted to be the highest income earner 💰 . This was achieved using the regression formula: x = -722.14 – y / -m
+-	About 89% of customers are within the age range of 20 – 50 years.
+-	About 71% of customers are medium income earners
 
 ![](Customer_Analysis.png)
 
 ### Product Analysis
-•	There is a strong negative correlation between customer ratings and product return rate with a correlation coefficient of **0.69**
-•	Chronograph Watch is the best rated product with a rating of **4.90** 
-• Winter Gloves and Wool Scarf are the least rated products  with a rating of **3.10**
-•	There has been a 91.35% reduction in sales this quarter (Jan – March 2021) as compared to the last quarter (Oct – Dec 2020)
+-	There is a strong negative correlation between customer ratings and product return rate with a correlation coefficient of **0.69**
+-	Chronograph Watch is the best rated product with a rating of **4.90** 
+- Winter Gloves and Wool Scarf are the least rated products  with a rating of **3.10**
+-	There has been a 91.35% reduction in sales this quarter (Jan – March 2021) as compared to the last quarter (Oct – Dec 2020)
 
 ![](Product_Analysis1.png)
 
 ### Geographical Analysis
-•	Based on customer transaction data from September 2020 to March 2021, 70% of top 10 customers (spenders) are from Illinois and California
-•	District of Columbia, New Jersey, Maryland, Massachusetts and Hawaii are the top 5 states based on average income while Mississippi, West Virginia, Arkansas, Kentucky and New Mexico are the bottom 5 states based on average income.
-• California, Texas, Florida, New York, Illinois, Pennyslvania, Ohio, Georgia, North Carolina and Mechigan are the Top 10 most populated cities.
+-	Based on customer transaction data from September 2020 to March 2021, 70% of top 10 customers (spenders) are from Illinois and California
+-	District of Columbia, New Jersey, Maryland, Massachusetts and Hawaii are the top 5 states based on average income while Mississippi, West Virginia, Arkansas, Kentucky and New Mexico are the bottom 5 states based on average income.
+- California, Texas, Florida, New York, Illinois, Pennyslvania, Ohio, Georgia, North Carolina and Mechigan are the Top 10 most populated cities.
 
 ![](Geographical_Analysis.png)
 
